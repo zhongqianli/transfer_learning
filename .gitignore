@@ -1,0 +1,9 @@
+.idea
+__pycache__
+*.pyc
+logs*
+checkpoint*
+model
+test_*
+*.h5
+ckpt_*
